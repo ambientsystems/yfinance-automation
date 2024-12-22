@@ -3,10 +3,10 @@ import json
 import datetime
 
 def fetch_stock_data():
-    stock_symbols = ["AAPL", "QQQ"]
+    stock_symbols = ["AAPL", "QQQ", "SPY", "TSLA", "NVDA"]
     results = []
     
-    for symbol in stock_symbols:
+    for index, symbol in enumerate(stock_symbols):
         ticker = yf.Ticker(symbol)
         data = ticker.history(period="6mo")
         
@@ -16,6 +16,7 @@ def fetch_stock_data():
         dma_50 = data['Close'].rolling(window=50).mean().iloc[-1]
         
         results.append({
+            "id": f"{symbol}_{datetime.datetime.now().strftime('%Y%m%d')}",
             "Date": datetime.datetime.now().strftime("%Y-%m-%d"),
             "Stock Symbol": symbol,
             "Latest Price": float(latest_price),
