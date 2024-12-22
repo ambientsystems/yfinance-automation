@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "2024-12-22",
+        "Stock Symbol": "AAPL",
+        "Latest Price": 254.49000549316406,
+        "Volume": 146890100,
+        "Average Volume": 52197354,
+        "50-DMA": 234.72052795410156
+    },
+    {
+        "Date": "2024-12-22",
+        "Stock Symbol": "QQQ",
+        "Latest Price": 518.6599731445312,
+        "Volume": 60429700,
+        "Average Volume": 33488588,
+        "50-DMA": 506.9989965820312
+    }
+]
