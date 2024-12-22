@@ -12,16 +12,16 @@ def fetch_stock_data():
         
         latest_price = data['Close'][-1]
         latest_volume = data['Volume'][-1]
+        avg_volume = data['Volume'].mean()
         dma_50 = data['Close'].rolling(window=50).mean().iloc[-1]
-        dma_200 = data['Close'].rolling(window=200).mean().iloc[-1]
         
         results.append({
             "Date": datetime.datetime.now().strftime("%Y-%m-%d"),
             "Stock Symbol": symbol,
             "Latest Price": float(latest_price),
             "Volume": int(latest_volume),
-            "50-DMA": float(dma_50),
-            "200-DMA": float(dma_200)
+            "Average Volume": int(avg_volume),
+            "50-DMA": float(dma_50)
         })
     
     # Save as JSON
