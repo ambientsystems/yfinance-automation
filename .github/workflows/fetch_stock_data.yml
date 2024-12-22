@@ -1,0 +1,30 @@
+name: Fetch Stock Data Daily
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs every day at 8 AM UTC
+
+jobs:
+  fetch_data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        run: python fetch_stock_data.py
+
+      - name: Upload JSON file as an artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: stock_data
+          path: stock_data.json
