@@ -1,47 +1,47 @@
 [
     {
-        "id": "AAPL_20250206",
-        "Date": "2025-02-06",
+        "id": "AAPL_20250207",
+        "Date": "2025-02-07",
         "Stock Symbol": "AAPL",
-        "Latest Price": 232.47000122070312,
-        "Volume": 39620300,
-        "Average Volume": 49408923,
-        "50-DMA": 240.3875991821289
+        "Latest Price": 233.22000122070312,
+        "Volume": 29836900,
+        "Average Volume": 49092863,
+        "50-DMA": 240.48159912109375
     },
     {
-        "id": "QQQ_20250206",
-        "Date": "2025-02-06",
+        "id": "QQQ_20250207",
+        "Date": "2025-02-07",
         "Stock Symbol": "QQQ",
-        "Latest Price": 526.8499755859375,
-        "Volume": 21026400,
-        "Average Volume": 31849165,
-        "50-DMA": 519.1250762939453
+        "Latest Price": 529.5999755859375,
+        "Volume": 19304200,
+        "Average Volume": 31501923,
+        "50-DMA": 519.6337353515624
     },
     {
-        "id": "SPY_20250206",
-        "Date": "2025-02-06",
+        "id": "SPY_20250207",
+        "Date": "2025-02-07",
         "Stock Symbol": "SPY",
-        "Latest Price": 604.219970703125,
-        "Volume": 30567900,
-        "Average Volume": 47992800,
-        "50-DMA": 597.2496484375
+        "Latest Price": 606.3200073242188,
+        "Volume": 35726400,
+        "Average Volume": 47603794,
+        "50-DMA": 597.5424768066406
     },
     {
-        "id": "TSLA_20250206",
-        "Date": "2025-02-06",
+        "id": "TSLA_20250207",
+        "Date": "2025-02-07",
         "Stock Symbol": "TSLA",
-        "Latest Price": 378.1700134277344,
-        "Volume": 57223300,
-        "Average Volume": 84026724,
-        "50-DMA": 400.73399963378904
+        "Latest Price": 374.32000732421875,
+        "Volume": 77650100,
+        "Average Volume": 84057408,
+        "50-DMA": 401.4275994873047
     },
     {
-        "id": "NVDA_20250206",
-        "Date": "2025-02-06",
+        "id": "NVDA_20250207",
+        "Date": "2025-02-07",
         "Stock Symbol": "NVDA",
-        "Latest Price": 124.83000183105469,
-        "Volume": 262230800,
-        "Average Volume": 268823201,
-        "50-DMA": 135.8250651550293
+        "Latest Price": 128.67999267578125,
+        "Volume": 250526000,
+        "Average Volume": 267565375,
+        "50-DMA": 135.4654670715332
     }
 ]
