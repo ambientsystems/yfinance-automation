@@ -1,47 +1,47 @@
 [
     {
-        "id": "AAPL_20250329",
-        "Date": "2025-03-29",
+        "id": "AAPL_20250330",
+        "Date": "2025-03-30",
         "Stock Symbol": "AAPL",
         "Latest Price": 217.89999389648438,
         "Volume": 39784100,
-        "Average Volume": 48123958,
+        "Average Volume": 48123421,
         "50-DMA": 230.29122772216797
     },
     {
-        "id": "QQQ_20250329",
-        "Date": "2025-03-29",
+        "id": "QQQ_20250330",
+        "Date": "2025-03-30",
         "Stock Symbol": "QQQ",
         "Latest Price": 468.94000244140625,
         "Volume": 46273000,
-        "Average Volume": 32880359,
+        "Average Volume": 32877002,
         "50-DMA": 507.25030517578125
     },
     {
-        "id": "SPY_20250329",
-        "Date": "2025-03-29",
+        "id": "SPY_20250330",
+        "Date": "2025-03-30",
         "Stock Symbol": "SPY",
         "Latest Price": 555.6599731445312,
         "Volume": 71570500,
-        "Average Volume": 50562782,
+        "Average Volume": 50559712,
         "50-DMA": 586.8458947753907
     },
     {
-        "id": "TSLA_20250329",
-        "Date": "2025-03-29",
+        "id": "TSLA_20250330",
+        "Date": "2025-03-30",
         "Stock Symbol": "TSLA",
         "Latest Price": 263.54998779296875,
         "Volume": 123226900,
-        "Average Volume": 94084186,
+        "Average Volume": 94063020,
         "50-DMA": 322.47880004882813
     },
     {
-        "id": "NVDA_20250329",
-        "Date": "2025-03-29",
+        "id": "NVDA_20250330",
+        "Date": "2025-03-30",
         "Stock Symbol": "NVDA",
         "Latest Price": 109.66999816894531,
         "Volume": 229177400,
-        "Average Volume": 250203671,
+        "Average Volume": 250179733,
         "50-DMA": 124.92330459594727
     }
 ]
