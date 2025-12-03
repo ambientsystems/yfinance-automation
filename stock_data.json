@@ -1,47 +1,47 @@
 [
     {
-        "id": "AAPL_20251202",
-        "Date": "2025-12-02",
+        "id": "AAPL_20251203",
+        "Date": "2025-12-03",
         "Stock Symbol": "AAPL",
-        "Latest Price": 283.1000061035156,
-        "Volume": 46528400,
-        "Average Volume": 52639442,
-        "50-DMA": 263.21567169189456
+        "Latest Price": 286.19000244140625,
+        "Volume": 53615500,
+        "Average Volume": 52783155,
+        "50-DMA": 263.82283203125
     },
     {
-        "id": "QQQ_20251202",
-        "Date": "2025-12-02",
+        "id": "QQQ_20251203",
+        "Date": "2025-12-03",
         "Stock Symbol": "QQQ",
-        "Latest Price": 617.1699829101562,
-        "Volume": 40856700,
-        "Average Volume": 51482024,
-        "50-DMA": 609.0947985839844
+        "Latest Price": 622.0,
+        "Volume": 54368600,
+        "Average Volume": 51558455,
+        "50-DMA": 609.4907983398438
     },
     {
-        "id": "SPY_20251202",
-        "Date": "2025-12-02",
+        "id": "SPY_20251203",
+        "Date": "2025-12-03",
         "Stock Symbol": "SPY",
-        "Latest Price": 680.27001953125,
-        "Volume": 61115900,
-        "Average Volume": 74907529,
-        "50-DMA": 670.7697998046875
+        "Latest Price": 681.530029296875,
+        "Volume": 62892400,
+        "Average Volume": 74918137,
+        "50-DMA": 671.0635998535156
     },
     {
-        "id": "TSLA_20251202",
-        "Date": "2025-12-02",
+        "id": "TSLA_20251203",
+        "Date": "2025-12-03",
         "Stock Symbol": "TSLA",
-        "Latest Price": 430.1400146484375,
-        "Volume": 57307600,
-        "Average Volume": 93549647,
-        "50-DMA": 434.0316003417969
+        "Latest Price": 429.239990234375,
+        "Volume": 69147100,
+        "Average Volume": 93450665,
+        "50-DMA": 433.9322003173828
     },
     {
-        "id": "NVDA_20251202",
-        "Date": "2025-12-02",
+        "id": "NVDA_20251203",
+        "Date": "2025-12-03",
         "Stock Symbol": "NVDA",
-        "Latest Price": 179.9199981689453,
-        "Volume": 187764500,
-        "Average Volume": 183436361,
-        "50-DMA": 186.89480102539062
+        "Latest Price": 181.4600067138672,
+        "Volume": 182124200,
+        "Average Volume": 183316893,
+        "50-DMA": 186.85180114746095
     }
 ]
